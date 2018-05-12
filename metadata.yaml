@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40925'
     url: http://www.gutenberg.org/2009/agents/40925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42239#The-Paston-Letters-Volume-V--of-6-New-Complete-Library-Edition
 gutenberg_issued: '2013-03-01'
 gutenberg_type: Text
 identifiers:
